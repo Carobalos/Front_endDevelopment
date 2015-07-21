@@ -1,0 +1,68 @@
+body{
+   background:blue;
+   color:red;
+   font-weight:bolder; 
+   text-align: left;
+}
+h1{
+  border:orange double 10px;
+  color:white;
+  background-color:purple; 
+  text-align: center;
+}
+ul{
+   font: italic 20px;
+   font-family:"Times New Roman";
+}
+ol{ 
+   font:italic 20px;
+   font-family:"Times New Roman";
+}
+
+hr{
+   color:blue;
+   background:lime;
+   width:75%;
+   height:10px;   
+}
+p{
+   font-size:40px;
+   text-decoration: underline;
+   padding:25px 30px;
+}
+.goat{
+    background-color:red;
+    color:purple;
+    font-family:sans-serif; 
+    font-weight:100;
+    border-style:solid;
+    font-style:oblique;
+}
+#rabbit{
+    background:red;
+    font: italic 20px;
+    border:15px solid orange;
+    text-align: center;
+    color:aqua;
+    float:none;
+}
+
+#hen{
+    background:green;
+    color:aqua;
+    border:15px solid orange;
+    float:left;
+}
+#dog{
+    color:aqua;
+    border:15px solid orange;
+    background:red; 
+}
+#lamb{
+    font:italic 20px;
+    font-family:"Times New Roman";
+    float:right;
+    color:aqua;
+    background:green;    
+
+}

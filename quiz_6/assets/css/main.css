@@ -1,0 +1,103 @@
+/*start h1*/
+h1{
+   color:white;
+   background-color:#200000; 
+   text-align:center;
+}
+/*end h1*/
+/*begin main content*/
+#tree{
+   background-color:#6600CC;
+   background-image:url(../images/nt.jpg);
+   background-repeat:repeat;
+   background-position:center;
+   color:white;
+   font-weight:10px;
+   padding:25px 100px;
+   width:700px;
+   border:hidden;
+   margin:0 auto;
+}
+/*end main content*/
+/*start h2*/
+h2{
+   color:white;
+   background-color:#200000; 
+   text-align:center;
+   font-family:sans-serif;
+}
+/*end h2*/
+/*start p*/
+p{
+   font-size:25px;
+   padding:30px 30px;
+}
+/*end */
+/*start class content*/
+.root{ 
+   font-weight:50px;
+   border:none;
+   color:white;
+   list-style-type:none;
+}
+/*end class content*/
+/*start id content 1*/
+#back li{
+   display:inline-block;
+   width:105px;
+   background:#CC0000;
+   font:white;
+}
+/*end id content 1*/
+/*start id content 2*/
+#leaf{
+   font: italic;
+   text-align:left;
+   float:left;
+   width:275px;
+   height:200px;
+   background-color:#4C004C;
+   margin-bottom:30px;
+}
+/*end id content 2*/
+/*start id content 3*/
+#stem{
+   float:right;
+   width:275px;
+   height:auto;
+   background-color:#B20047;
+}
+/*end id content 3*/
+/*start id content 4*/
+#branch{
+   margin-left:px;
+   font-style: italic;
+   width:700px;
+   height:auto;
+   background-color:#003D00;
+}
+/*end id content 4*/
+/*start id content 5*/
+#vein{
+   float:left;
+   width:275px;
+   height:auto;
+   background-color:#001A33; 
+   margin-top:30px;
+}
+/*end id content 5*/
+/*start id content 6*/
+#ring{
+   float:right;
+   width:275px;
+   height:auto;   
+   background-color:#330014;
+   margin-top:30px;
+}
+/*end id content 6*/
+/*start list*/
+ul{
+  list-style-type:square;
+}
+/*end list*/
+  

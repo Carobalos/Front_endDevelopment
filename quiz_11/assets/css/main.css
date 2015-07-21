@@ -1,0 +1,43 @@
+
+
+#soon{
+  background-color:#c1c1c1;
+  height:640px;
+  border:1px solid #c1c1c1;
+  margin:0px auto;
+  width:960px;
+  padding-top:30px;
+}
+#weed{
+   width:800px;
+   height:300px;
+   background-color: #ffffff;
+   margin:0px auto;
+   margin-top:20px;
+  
+}
+#sun{
+ float:left;
+ padding-left:30px;
+ padding-top: 30px;
+}
+#son{
+ height:300px;
+ float:right;
+ width:330px;
+ font-size:15px;
+
+}
+#san{
+  margin:0px auto;
+  width:800px;
+  height:300px;
+}
+#saw{
+  float:left;
+}
+#sin{
+  float:right;
+  width:330px;
+  
+}

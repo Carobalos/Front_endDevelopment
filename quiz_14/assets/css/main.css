@@ -1,0 +1,124 @@
+body{
+ background-color:#000000; 
+}
+#all{
+ max-width:800px;
+ margin:0px auto;
+  height:1140px;
+  background-color:#f3f3f3;
+  font-family:arial;
+  margin-top: 25px;
+  margin-bottom:25px;
+}
+#one{
+  height:125px;
+}
+img{
+  width:93px;
+  height:93px;
+  float:left;
+  padding:20px;
+  border-radius:50%
+}
+#two{
+  float:left;
+  height:96px;
+}
+h1{
+  font-family:'Roboto', sans-serif;
+}
+h2{
+  font-family:'Roboto', sans-serif;
+}
+#three{
+  float:left;
+  padding-left:100px;
+  margin-top:20px;
+}
+
+#icons .fa{
+  color:#cf8905;
+  padding:5px;
+  font-size:20px;
+}
+#icons .fa:hover{
+  color:#629632;
+}
+hr{
+  width:800px;
+  color:#cf8905;
+  border:solid 2.2px;
+}
+#four{
+  float:right;
+  width:540px;
+  padding-right:27px;
+}
+.hr{
+   width:720px;
+  color:#dedede;
+  border:1px  solid;
+}
+h3{
+  color:#cf8905;
+  float:left;
+  width:15px;
+  padding-left:40px;
+  font-family:'Roboto', sans-serif;
+}
+#five{
+  float:right;
+  width:540px;
+  padding-right:27px;
+}
+h4{
+  font-family:'Roboto', sans-serif;
+}
+#bar{
+   float:right;
+   width:65%;
+  padding-right:6%;
+}
+.six{
+  height:20px;
+  width:100%;
+  background-color: #cccccc;
+}
+.sixChild{
+width:70%;
+height:100%;
+background-color:#cf8905;
+}
+.sevenChild{
+width:80%;
+height:100%;
+background-color:#cf8905;
+}
+.eightChild{
+width:60%;
+height:100%;
+background-color:#cf8905;
+}
+.nineChild{
+width:35%;
+height:100%;
+background-color:#cf8905;
+}
+li{
+  list-style-type:none;
+}
+#ten{
+  float:right;
+  width:543px;
+  padding-right:27px;
+}
+#eleven{
+  float:right;
+  width:543px;
+  padding-right:62px;
+}
+
+
+
+
+
